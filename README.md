@@ -1,4 +1,26 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6902933&assignment_repo_type=AssignmentRepo)
-# week1-assignment
+## _Nodejs XmlHttpRequest Example_
+Received data from [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users) using xmlhttprequest module and api service
 
-- XMLHttpRequest araştırılacak ve jsonplaceholder kullanılarak içerisindeki userlar console’a yazdırılacak.
+- ✨Node.js ✨
+- xmlhttprequest module
+- [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
+
+
+## Installation
+Clone the repository
+
+git clone [https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-caglaozturk.git](https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-caglaozturk.git)
+
+Install the dependencies.
+
+```sh
+cd folder_name
+npm i
+node app
+```
+
+Start the server...
+
+```sh
+node app or npm start
+```
